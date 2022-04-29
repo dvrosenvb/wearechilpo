@@ -1,7 +1,6 @@
 # WeAreChilpo
 
-🫡
-
+🤠
 
 ## Architecture
 
